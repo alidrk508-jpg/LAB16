@@ -2,7 +2,7 @@
 
 Une application Android simple en Java illustrant l'utilisation des services (**Foreground Service** et **Bound Service**) pour implémenter un chronomètre persistant.
 
-<img src="img/demo.gif" width="500" height="500">
+<img src="img/demo.gif" width="300" height="500">
 
 ## Fonctionnalités
 
